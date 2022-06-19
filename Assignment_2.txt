@@ -1,0 +1,72 @@
+
+1. What is lexical structure?
+set of some rules about how code should be written in it. like variable names, comments, semicolon, and it is case sensitive so upper case and lower case should be considerd.
+
+
+2. What is Unicode?
+ JavaScript is written in Unicode (It is an industry standard for the consistent encoding of written text). This means you can use Emojis as variable names, but more importantly, you can write identifiers in any language, for example, Japanese or Chinese, with some rules.
+
+
+3. Explain all the keywords present in the JavaScript with examples.
+-await
+-const 
+-break
+-case
+-catch
+-class
+-continue
+-delete
+-do
+-else
+-enum
+-export
+-if
+-let
+-public
+-try
+-true
+-var
+-while
+-void
+
+
+
+4. What are shorthand operators, explain with a suitable example?
+addition += , x+=4
+subtraction -= , x-=4
+multiplication *= , x*=4
+Division /= , x/=4
+
+
+5. What is “use Strict” in JavaScript?
+ECMAScript 5 has intruduce this expression. it is used to write a secure javaScript code. it will help for less errors & it applied to entire script not just for block of code or statement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
